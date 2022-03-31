@@ -1,3 +1,5 @@
+#!/bin/python3
+
 import random
 
 RAttack1 = "RBaseAttack1"

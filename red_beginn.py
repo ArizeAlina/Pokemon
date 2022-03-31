@@ -1,3 +1,5 @@
+#!/bin/python3
+
 print("Eich: Willkommen in der wundersamen Welt von Pokemon")
 print("Eich: Mein Name ist Eich, ich arbeite hier als Pokemon Professor")
 
