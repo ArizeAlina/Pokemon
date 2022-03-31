@@ -1,3 +1,5 @@
+#!/bin/python3
+
 import random
 
 turn_rival_pokemon = "Base Rival Pokemon"
